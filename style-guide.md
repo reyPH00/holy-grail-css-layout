@@ -6,6 +6,8 @@ See [this link](https://zachgoll.github.io/holy-grail-css-layout/) for the compl
 - Text/Icon Color - #1e4040
 - Link text color - #71d99e
 
+
+
 ### Layout "frame" colors
 
 To help you visualize the CSS Grid containers, I use the following colors in the tutorial:
@@ -15,7 +17,7 @@ To help you visualize the CSS Grid containers, I use the following colors in the
 When you are first starting the project, I suggest using these colors to help you visualize the containers.  **Once you have created them, you will remove these colors from the design.**  There is no particular significance to these colors.  I picked them arbitrarily.
 
 - Outer Grid
-    - Outer grid header - rgba(0, 31, 255, 0.5)
+    - Outer grid header - rgba(0, 31, 255, 0.5) 
     - Outer grid navbar - rgba(0, 31, 255, 0.8)
     - Outer grid main area - rgba(0, 31, 255, 0.2)
 - Inner Grid
